@@ -1,3 +1,5 @@
+CryptoVerse is all about cryptocurrency
+Link:https://648092a8b7cfbf0904877858--heroic-tartufo-10ae66.netlify.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
